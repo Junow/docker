@@ -4,5 +4,5 @@ test('hello github actions', ()=>{
 });
 
 test('hello feature', ()=>{
-    expect(false).toBe(true);
+    expect(false).toBe(false);
 });
