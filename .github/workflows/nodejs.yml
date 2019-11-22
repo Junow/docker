@@ -25,6 +25,5 @@ jobs:
           npm install
           npm test
           npm build
-          npm start
         env:
           CI: true
