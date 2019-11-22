@@ -1,8 +1,8 @@
 
 test('hello github actions', ()=>{
-    expect(true).toBe(false);
+    expect(true).toBe(true);
 })
 
 test('hello devleop', ()=>{
-    expect(true).toBe(true);
+    expect(false).toBe(false);
 })
